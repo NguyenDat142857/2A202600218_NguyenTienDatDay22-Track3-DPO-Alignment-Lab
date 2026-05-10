@@ -131,4 +131,4 @@ The missing `NaN` values for IFEval, GSM8K, and MMLU most likely indicate an inc
 
 ## Điều ngạc nhiên nhất khi làm lab này
 
-Điều khiến tôi bất ngờ nhất là DPO có thể tạo ra reward gap dương và cải thiện safety behavior, nhưng điều đó không đồng nghĩa với việc model sẽ trở nên tốt hơn trên mọi tác vụ. Lab này cho tôi thấy rõ rằng alignment optimization là một bài toán trade-off thực sự giữa helpfulness, stability, safety, và overall user experience.
+Điều khiến em bất ngờ nhất là DPO có thể tạo ra reward gap dương và cải thiện safety behavior, nhưng điều đó không đồng nghĩa với việc model sẽ trở nên tốt hơn trên mọi tác vụ. Lab này cho tôi thấy rõ rằng alignment optimization là một bài toán trade-off thực sự giữa helpfulness, stability, safety, và overall user experience.
